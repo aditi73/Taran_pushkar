@@ -1,0 +1,2 @@
+class RaceTimingIndividualEventController < ApplicationController
+end

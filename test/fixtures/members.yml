@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2015-07-08
+  gender: MyString
+  district: MyString
+  state: MyString
+  school_name_or_club_name: MyString
+
+two:
+  name: MyString
+  dob: 2015-07-08
+  gender: MyString
+  district: MyString
+  state: MyString
+  school_name_or_club_name: MyString
