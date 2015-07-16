@@ -71,4 +71,5 @@ class MembersController < ApplicationController
     def member_params
       params.require(:member).permit(:name, :dob, :gender, :district, :state, :school_name_or_club_name)
     end
+
 end
